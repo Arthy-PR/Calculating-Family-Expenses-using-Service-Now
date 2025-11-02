@@ -1,7 +1,7 @@
 # Calculating-Family-Expenses-using-Service-Now
 ## 🏠 Project Overview
-The ** Calculating-Family-Expenses-using-Service-Now
-** is a ServiceNow-based application designed to help users efficiently track, categorize, and analyze household expenses.  
+The  Calculating-Family-Expenses-using-Service-Now
+ is a ServiceNow-based application designed to help users efficiently track, categorize, and analyze household expenses.  
 It enables budget management, real-time analytics, and automated reporting to support informed financial decisions and promote financial well-being.
 
 ---
@@ -78,8 +78,8 @@ This video demonstrates the working prototype of the Family Expense Management S
 
 ---
 
-## 🏁 Conclusion
-The * Calculating-Family-Expenses-using-Service-Now** provides a scalable, automated, and user-friendly approach to managing family finances on the ServiceNow platform.  
+##  Conclusion
+The  Calculating-Family-Expenses-using-Service-Now** provides a scalable, automated, and user-friendly approach to managing family finances on the ServiceNow platform.  
 Through structured planning, strong architecture, and thorough testing, the solution ensures accurate expense tracking and informed financial decisions.
 
 ---
